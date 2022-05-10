@@ -15,3 +15,13 @@ En este primer paso lo dejaremos todo marcado.
 2.-  
 ![image](https://user-images.githubusercontent.com/91566044/167695084-d0d20bd8-4783-41dd-92d1-1e2a1a72f5b8.png)  
 Una vez realizada la instalación nos saldra el siguiente mensaje, el cual nos obligará a reiniciar Windows para completar la instalación al completo.
+  
+  
+3.-  
+![image](https://user-images.githubusercontent.com/91566044/167699033-374352b1-638d-4ae0-8941-c768e791c12a.png)  
+Cuando reiniciamos y abrimos la aplicación nos sale el siguiente mensaje para que aceptemos sus terminos de servicios.
+  
+  
+4.-  
+![image](https://user-images.githubusercontent.com/91566044/167699254-008fb6bd-91ed-45cf-85c5-1499eff56ca2.png)  
+Para finalizar, docker nos va a pedir la instalación de *WSL 2* como le hemos indicado en el paso 1 de la configuración. Tendremos que volver a reiniciar el sistema para que se realice esta instalación y que así la aplicación funcione.
