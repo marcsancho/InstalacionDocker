@@ -24,4 +24,9 @@ Cuando reiniciamos y abrimos la aplicación nos sale el siguiente mensaje para q
   
 4.-  
 ![image](https://user-images.githubusercontent.com/91566044/167699254-008fb6bd-91ed-45cf-85c5-1499eff56ca2.png)  
-Para finalizar, docker nos va a pedir la instalación de *WSL 2* como le hemos indicado en el paso 1 de la configuración. Tendremos que volver a reiniciar el sistema para que se realice esta instalación y que así la aplicación funcione.
+Para finalizar, docker nos va a pedir la instalación de *WSL 2* como le hemos indicado en el paso 1 de la configuración. Este va a reiniciar la aplicación una vez hayamos descargado el kernel de linux que encontraremos en el enlace de la imagen, para que de tal forma se realice esta instalación y que así la aplicación funcione.
+  
+  
+5.-  
+![image](https://user-images.githubusercontent.com/91566044/167700159-d3f037a1-7fab-4d96-aee3-ee944c527be2.png)  
+Y de esta forma tendriamos la aplicación preparada para funcionar, dejo la imagen del inicio del tutorial de la misma.
